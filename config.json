@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsrocess",
+        "uuid": 18450485,
+        "checksum": "updwd9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
